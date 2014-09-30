@@ -5,6 +5,6 @@ title: Neon Autumn... AwesomeSauce
 
 Hello all!!
 
-[google](www.google.com)
+[minceraft](http://lmgtfy.com/?q=minceraft)
 
 weeee
