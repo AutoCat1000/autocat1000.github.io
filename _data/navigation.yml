@@ -1,6 +1,11 @@
 # Site navigation links
-- title: NAVIGATION
 - title: Characters
   url: /characters
-  excerpt: testing hehe 
+  excerpt: NPCs and players 
   image:
+- title: Quests
+  url: /quests
+  excerpt: The latest mission
+- title: Lore
+  url: /lore
+  excerpt: Lore from explored locations
