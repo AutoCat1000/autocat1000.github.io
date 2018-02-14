@@ -1,10 +1,5 @@
 ---
-layout: post
-title: Neon Autumn... AwesomeSauce
+layout: default
+title: TESTING
 ---
-
-Hello all!!
-
-[minceraft](http://lmgtfy.com/?q=minceraft)
-
-weeee
+This is a test.
