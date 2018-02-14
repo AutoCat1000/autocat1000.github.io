@@ -2,8 +2,10 @@
 layout: default
 title: CHARACTERS
 ---
-{% for post in site.characters %}
-    <a href="{{ post.url | absolute_url }}">
-      {{ post.title }}
-    </a>
-{% endfor %}
+<ul>
+  {% for post in site.characters %}
+    <li>
+      <a href="{{ post.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
