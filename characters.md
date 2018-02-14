@@ -2,5 +2,8 @@
 layout: default
 title: CHARACTERS
 ---
-
-testing...characters will be here
+{% for post in site.characters %}
+    <a href="{{ post.url | absolute_url }}">
+      {{ post.title }}
+    </a>
+{% endfor %}
