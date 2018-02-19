@@ -1,11 +1,11 @@
 ---
-layout: archive
+layout: default
 permalink: /
-title: "Latest Posts"
+title: "Welcome to the Slavariak Universe"
 ---
 
-<div class="tiles">
-{% for post in site.posts %}
-	{% include post-grid.html %}
-{% endfor %}
-</div><!-- /.tiles -->
+Explore expansive star systems and wild magic under [the AfterLife program](/lore/theafterlife/).
+
+##### Next Session: February 21st, 2018
+
+Look under the Navigation tab to see all of the different pieces of information.
