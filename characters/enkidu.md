@@ -5,4 +5,4 @@ title: ENKIDU
 # Enkidu
 Human Envoy
 
-What be up, Jesus? Send me your character stats for this page.
+>Hey there aren't any slaves on my ship, only bitches; and I love my bitches, you're all my bitches, and **I love all of you.**

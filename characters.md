@@ -2,12 +2,23 @@
 layout: archive
 title: CHARACTERS
 ---
-# [Nu](/characters/nu)
+# **Players**
 
-# [Mia](/characters/mia)
+## [*Nu*](/characters/nu)
+*played by Michael*
 
-# [Enkidu](/characters/enkidu)
+## [*Mia*](/characters/mia)
+*played by Caden*
 
-# [Ale](/characters/ale)
+## [*Enkidu*](/characters/enkidu)
+*played by Kaiden*
 
-# [Revy](/characters/revy)
+## [*Ale*](/characters/ale)
+*played by Mick*
+
+## [*Revy*](/characters/revy)
+*played by Colleen*
+
+# NPCs
+
+## [*The Cat*](/characters/thecat)

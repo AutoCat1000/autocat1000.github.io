@@ -2,7 +2,7 @@
 layout: default
 title: MIA
 ---
-# Mia
+# [Name Redacted], Status: MIA
 Android Technomancer *(& Pilot)*
 
 >Y'know, an old gambler I knew had a saying - if you think the other guy might have a blaster hidden under the table... ***bring two blasters.***
