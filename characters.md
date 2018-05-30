@@ -22,3 +22,5 @@ title: CHARACTERS
 # NPCs
 
 ## [*The Cat*](/characters/thecat)
+
+## [*Euni*](/characters/euni)
