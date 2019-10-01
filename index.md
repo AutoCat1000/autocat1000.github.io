@@ -1,12 +1,14 @@
 ---
 layout: media
 permalink: /
-title: "Welcome to the land of Layona"
+title: "The land of Layona"
 image:
   feature: galaxy.jpg
   credit: TwitrCovers
   creditlink: http://www.twitrcovers.com/twitter-covers/abstract-galaxies-sparkles/
 ---
+
+**Welcome to the Land of Layona**
 
 Thank you for joining Autumn on a journey in 2019-2020!
 
