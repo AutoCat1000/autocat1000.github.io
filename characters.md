@@ -4,23 +4,23 @@ title: CHARACTERS
 ---
 # **Players**
 
-## [*Nu*](/characters/nu)
-*played by Michael*
+## [*TODD*](/characters/)
+*played by Colleen*
 
-## [*Mia*](/characters/mia)
-*played by Caden*
+## [**](/characters/)
+*played by Marshall*
 
-## [*Enkidu*](/characters/enkidu)
-*played by Kaiden*
+## [**](/characters/)
+*played by Casey*
 
-## [*Ale*](/characters/ale)
+## [**](/characters/)
 *played by Mick*
 
-## [*Revy*](/characters/revy)
-*played by Colleen*
+## [**](/characters/)
+*played by Amy*
 
 # NPCs
 
-## [*The Cat*](/characters/thecat)
+## [*Zera*](/characters/)
 
-## [*Euni*](/characters/euni)
+## [**](/characters/)
