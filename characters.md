@@ -4,7 +4,7 @@ title: CHARACTERS
 ---
 # **Players**
 
-## [*TODD*](/characters/)
+## [*TODD*](/characters/todd)
 *played by Colleen*
 
 ## [**](/characters/)
