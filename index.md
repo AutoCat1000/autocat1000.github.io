@@ -3,9 +3,9 @@ layout: media
 permalink: /
 title: "The Land of Layona"
 image:
-  feature: galaxy.jpg
-  credit: TwitrCovers
-  creditlink: http://www.twitrcovers.com/twitter-covers/abstract-galaxies-sparkles/
+  feature: steampunkgears.jpg
+  credit:
+  creditlink:
 ---
 
 **Welcome to the Land of Layona**
