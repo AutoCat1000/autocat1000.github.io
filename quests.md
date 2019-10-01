@@ -4,7 +4,7 @@ title: QUESTS
 ---
 # Latest Quests:
 
-## Aunior
-Mission: Find the crashed ship Aunior and retrieve any survivors.
-Aunior is an ice planet with 30ft of snow covering the surface. About 6 weeks ago, a ship called Aunior vanished once it reached the orbit of this ice planet. Normal time to naturally escape has passed and it is time to send in your crew.
+## Go to the Hell Huran Capital
+Mission: Find out who burnt down the tavern in Erikshan
+You met Zera in Erikshan when a tavern was burnt down in the Festival Of Growth. She knocked out a tiefling man who was a part of a clan, and lead you to travel across the Hell Huran border toward the capital to find out more about this clan.
 
