@@ -1,7 +1,7 @@
 ---
 layout: media
 permalink: /
-title: "The land of Layona"
+title: "The Land of Layona"
 image:
   feature: galaxy.jpg
   credit: TwitrCovers
