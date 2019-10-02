@@ -3,4 +3,4 @@ layout: default
 title: LORE
 ---
 
-[The AfterLife program](/lore/theafterlife/)
+[Avny Culture](/lore/avnyculture/)
