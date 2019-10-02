@@ -7,16 +7,16 @@ title: CHARACTERS
 ## [*TODD*](/characters/todd.md)
 *played by Colleen*
 
-## [**](/characters/)
+## [*Doctor Walphenshteifer*](/characters/)
 *played by Marshall*
 
-## [**](/characters/)
+## [*Themyar*](/characters/)
 *played by Casey*
 
-## [**](/characters/)
+## [*Kriv*](/characters/)
 *played by Mick*
 
-## [**](/characters/)
+## [*Nydysa*](/characters/)
 *played by Amy*
 
 # NPCs
