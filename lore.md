@@ -1,6 +1,9 @@
 ---
-layout: default
+layout: archive
 title: LORE
 ---
+# **Cultures**
 
-[Avny Culture](/lore/avnyculture/)
+## [*Avny Culture*](/lore/avnyculture/)
+
+# **Magic Systems**
